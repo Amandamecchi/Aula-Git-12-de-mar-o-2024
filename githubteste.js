@@ -1,4 +1,4 @@
-let numero = 57;
+let numero = 58;
 let limiteTabuada = 12;
 let = numero * limiteTabuada;
 for (let i = 1; i <= limiteTabuada; i++) {
